@@ -40,12 +40,6 @@ Target:
 - F1 Score: ~0.60  
 - Demonstrates challenges of real-world, noisy authentication data  
 
-## Tech Stack
-
-- Python  
-- Pandas  
-- Scikit-learn  
-
 ## Instructions
 
 ```bash
